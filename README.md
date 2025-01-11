@@ -1,2 +1,0 @@
-# Qoura_answers
-Assignment
